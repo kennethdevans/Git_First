@@ -1,5 +1,5 @@
 # Git_First
 
-- Comments from R Studio
+- Comment from R Studio
 
-- Comments from GitHub
+- Comment from GitHub
